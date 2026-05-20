@@ -50,12 +50,5 @@ I fixed this by adding basic input checks and `try/except` blocks so the program
 - The importance of testing with different types of input
 - How to use GitHub to manage and share a project
 
-## Future Improvements
-
-- Save the to-do list to a text file so tasks don’t disappear when you close the program
-- Add input validation for all tools, not just the to-do list
-- Add 1-2 more tools like a budget tracker or number guessing game
-- Improve the menu design to make it cleaner
-
 ## Author
 Aphiwe Lukho Bija
